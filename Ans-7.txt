@@ -1,0 +1,13 @@
+package JavaTutorial;
+
+public class JavaTutorial_ans_7 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		float a=699;
+		System.out.println("Final plan cost with 18% gst is:");
+		System.out.println(a+(a*18/100));
+	}
+
+}
